@@ -8,8 +8,8 @@
 
 I build Python applications, digital systems, and practical automation for real business workflows—clear to use, dependable in practice, and built with purpose.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-163B36?style=flat-square&logo=linkedin&logoColor=E6C27A)](https://www.linkedin.com/in/saaleh-ijaz-aipy/)
-[![Email](https://img.shields.io/badge/Email-163B36?style=flat-square&logo=gmail&logoColor=E6C27A)](mailto:aipyfusion@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B594F?style=flat-square&logo=linkedin&logoColor=E6C27A)](https://www.linkedin.com/in/saaleh-ijaz-aipy/)
+[![Email](https://img.shields.io/badge/Email-2B594F?style=flat-square&logo=gmail&logoColor=E6C27A)](mailto:aipyfusion@gmail.com)
 
 </div>
 
@@ -52,13 +52,13 @@ Combines protected teacher journeys, curriculum administration, and per-user pro
 
 ## Core toolkit
 
-![Python](https://img.shields.io/badge/Python-163B36?style=flat-square&logo=python&logoColor=E6C27A)
-![TypeScript](https://img.shields.io/badge/TypeScript-163B36?style=flat-square&logo=typescript&logoColor=E6C27A)
-![React](https://img.shields.io/badge/React-163B36?style=flat-square&logo=react&logoColor=E6C27A)
-![Firebase](https://img.shields.io/badge/Firebase-163B36?style=flat-square&logo=firebase&logoColor=E6C27A)
-![Linux](https://img.shields.io/badge/Linux-163B36?style=flat-square&logo=linux&logoColor=E6C27A)
-![Git](https://img.shields.io/badge/Git-163B36?style=flat-square&logo=git&logoColor=E6C27A)
-![GitHub](https://img.shields.io/badge/GitHub-163B36?style=flat-square&logo=github&logoColor=E6C27A)
+![Python](https://img.shields.io/badge/Python-2B594F?style=flat-square&logo=python&logoColor=E6C27A)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B594F?style=flat-square&logo=typescript&logoColor=E6C27A)
+![React](https://img.shields.io/badge/React-2B594F?style=flat-square&logo=react&logoColor=E6C27A)
+![Firebase](https://img.shields.io/badge/Firebase-2B594F?style=flat-square&logo=firebase&logoColor=E6C27A)
+![Linux](https://img.shields.io/badge/Linux-2B594F?style=flat-square&logo=linux&logoColor=E6C27A)
+![Git](https://img.shields.io/badge/Git-2B594F?style=flat-square&logo=git&logoColor=E6C27A)
+![GitHub](https://img.shields.io/badge/GitHub-2B594F?style=flat-square&logo=github&logoColor=E6C27A)
 
 **Also working with:** JavaScript · SQL · HTML/CSS · WordPress · REST APIs · Git · automated testing · desktop packaging
 
