@@ -29,7 +29,7 @@ A desktop application for applying consistent watermarks and branding across bat
 </td>
 <td width="50%" valign="top">
 
-### Teacher's Bag
+### [Teacher's Bag](https://github.com/Sahil-Rajpoot-AiPy/Teacher-s-Bag)
 
 A role-based training portal that separates the teacher learning experience from curriculum and user administration.
 
@@ -37,7 +37,7 @@ A role-based training portal that separates the teacher learning experience from
 
 **Built around:** protected routes, role-based access, content management, progress tracking, responsive UI, and security rules.
 
-_Publication-ready; repository visibility remains private until final approval._
+**Public portfolio project** with representative screenshots, documented setup, and automated checks.
 
 </td>
 </tr>
