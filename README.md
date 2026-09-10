@@ -15,18 +15,11 @@ I build Python applications, digital systems, and practical automation for real 
 
 ## Featured work
 
-<table>
-<tr>
-<td width="50%" valign="middle">
+### [MarkIt](https://github.com/Sahil-Rajpoot-AiPy/markit)
 
 <a href="https://github.com/Sahil-Rajpoot-AiPy/markit">
   <img src="https://raw.githubusercontent.com/Sahil-Rajpoot-AiPy/markit/main/data/Mark_It_Start_Page.png" alt="MarkIt desktop application" width="100%">
 </a>
-
-</td>
-<td width="50%" valign="middle">
-
-### [MarkIt](https://github.com/Sahil-Rajpoot-AiPy/markit)
 
 **A desktop batch-watermarking tool for businesses, creators, and photographers.**
 
@@ -36,12 +29,11 @@ Turns a repetitive branding task into a guided workflow with visual preview, con
 
 [View repository →](https://github.com/Sahil-Rajpoot-AiPy/markit) · [Watch demo →](https://youtu.be/wek7LdY5kps)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="middle">
-
 ### [Teacher's Bag](https://github.com/Sahil-Rajpoot-AiPy/Teacher-s-Bag)
+
+<a href="https://github.com/Sahil-Rajpoot-AiPy/Teacher-s-Bag">
+  <img src="https://raw.githubusercontent.com/Sahil-Rajpoot-AiPy/Teacher-s-Bag/main/docs/screenshots/teacher-dashboard.jpg" alt="Teacher's Bag training portal dashboard" width="100%">
+</a>
 
 **A role-based training portal for teachers and the teams managing their learning content.**
 
@@ -50,17 +42,6 @@ Combines protected teacher journeys, curriculum administration, and per-user pro
 `React` `TypeScript` `Firebase Auth` `Firestore` `Tailwind CSS`
 
 [View repository →](https://github.com/Sahil-Rajpoot-AiPy/Teacher-s-Bag)
-
-</td>
-<td width="50%" valign="middle">
-
-<a href="https://github.com/Sahil-Rajpoot-AiPy/Teacher-s-Bag">
-  <img src="https://raw.githubusercontent.com/Sahil-Rajpoot-AiPy/Teacher-s-Bag/main/docs/screenshots/teacher-dashboard.jpg" alt="Teacher's Bag training portal dashboard" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
 
 ## How I work
 
@@ -76,6 +57,8 @@ Combines protected teacher journeys, curriculum administration, and per-user pro
 ![React](https://img.shields.io/badge/React-163B36?style=flat-square&logo=react&logoColor=E6C27A)
 ![Firebase](https://img.shields.io/badge/Firebase-163B36?style=flat-square&logo=firebase&logoColor=E6C27A)
 ![Linux](https://img.shields.io/badge/Linux-163B36?style=flat-square&logo=linux&logoColor=E6C27A)
+![Git](https://img.shields.io/badge/Git-163B36?style=flat-square&logo=git&logoColor=E6C27A)
+![GitHub](https://img.shields.io/badge/GitHub-163B36?style=flat-square&logo=github&logoColor=E6C27A)
 
 **Also working with:** JavaScript · SQL · HTML/CSS · WordPress · REST APIs · Git · automated testing · desktop packaging
 
