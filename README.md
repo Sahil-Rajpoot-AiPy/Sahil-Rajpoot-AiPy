@@ -1,6 +1,6 @@
 <div align="center">
 
-![Abstract emerald technology banner](assets/profile-banner.png)
+![Abstract emerald technology banner](assets/profile-banner.jpg)
 
 # Saaleh Ijaz
 
