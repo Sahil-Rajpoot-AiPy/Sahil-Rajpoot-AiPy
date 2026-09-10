@@ -1,54 +1,70 @@
+<div align="center">
+
+![Abstract emerald technology banner](assets/profile-banner.png)
+
 # Saaleh Ijaz
 
-**Software Developer · Web · Automation**
+### Software Developer · Web Applications · Python Tools · Automation
 
-I build practical digital products that solve real problems — from Python desktop tools and business websites to web apps and automation.
+I build practical software with a business-aware approach—clear interfaces, reliable workflows, and technology chosen for the problem rather than the trend.
 
-My background spans WordPress, digital marketing, e-commerce, QA, and software development, so I tend to look at software from both sides: **how it works technically** and **whether it actually helps the user or business**.
+[LinkedIn](https://www.linkedin.com/in/saaleh-ijaz-aipy/) · [Email](mailto:aipyfusion@gmail.com)
 
-## What I build
+</div>
 
-- **Web applications** — responsive, practical interfaces and full-stack workflows
-- **Python tools** — desktop utilities, image-processing tools, and automation
-- **Business automation** — reducing repetitive work with code and AI-assisted workflows
-- **Website improvement** — usability, performance, conversion, and digital experience
+## Selected work
 
-## Featured work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### MarkIt
-A Python desktop application for applying consistent watermarks and branding to many images at once.
+### [MarkIt](https://github.com/Sahil-Rajpoot-AiPy/markit)
 
-**Python · CustomTkinter · Pillow · PyInstaller · Pytest**
+A desktop application for applying consistent watermarks and branding across batches of images.
 
-[View MarkIt →](https://github.com/Sahil-Rajpoot-AiPy/markit)
+`Python` `CustomTkinter` `Pillow` `PyInstaller` `Pytest`
+
+**Built around:** batch processing, visual preview, configurable placement and export, desktop packaging, and automated checks.
+
+</td>
+<td width="50%" valign="top">
 
 ### Teacher's Bag
-A role-based training and teaching-material portal with separate teacher and administrator experiences.
 
-**React · TypeScript · Firebase Auth · Firestore · Tailwind CSS**
+A role-based training portal that separates the teacher learning experience from curriculum and user administration.
 
-> Currently being polished for public release and portfolio use.
+`React` `TypeScript` `Firebase Auth` `Firestore` `Tailwind CSS`
 
-## Current focus
+**Built around:** protected routes, role-based access, content management, progress tracking, responsive UI, and security rules.
 
-I'm strengthening my backend and software-engineering skills while building projects that are useful beyond tutorials — especially around web development, automation, retail/e-commerce systems, and practical AI-assisted workflows.
+_Publication-ready; repository visibility remains private until final approval._
 
-## Tools & technologies
+</td>
+</tr>
+</table>
 
-**Languages:** Python, JavaScript, TypeScript, SQL  
-**Web:** HTML, CSS, React, WordPress  
-**Backend / Data:** Firebase, Firestore, REST APIs  
-**Tools:** Git, GitHub, Linux, Docker  
+## What I bring to a project
 
-## Background
+- **Product-minded development** — I start with the user, workflow, and business outcome.
+- **Practical implementation** — web applications, Python utilities, automation, and improvements to existing digital products.
+- **Cross-functional context** — experience across WordPress, digital marketing, e-commerce operations, and software QA.
+- **Clear handoff** — readable documentation, reproducible setup, and honest boundaries around project status.
 
-Before focusing more deeply on software development, I worked with digital marketing, WordPress, e-commerce operations, and software QA. That experience still shapes how I approach projects: understand the problem first, then build the simplest useful solution.
+## Working toolkit
 
-## Connect
+**Languages:** Python · JavaScript · TypeScript · SQL  
+**Web:** React · HTML · CSS · WordPress  
+**Application & data:** Firebase · Firestore · REST APIs · Desktop GUI development  
+**Workflow:** Git · GitHub · Linux · Testing · Packaging
 
-- [LinkedIn](https://www.linkedin.com/in/saaleh-ijaz-aipy/)
-- Email: **aipyfusion@gmail.com**
+## Current direction
+
+I’m deepening my backend and software-engineering practice by building complete, useful projects—especially tools for business workflows, education, e-commerce, retail, and automation.
 
 ---
 
-*Building useful software, one project at a time.*
+<div align="center">
+
+**Useful software. Thoughtful interfaces. Measurable outcomes.**
+
+</div>
